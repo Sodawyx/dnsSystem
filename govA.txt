@@ -1,0 +1,4 @@
+wyx.gov.us 86400 IN A 192.168.9.9
+dns.gov.us 86400 IN A 192.168.100.100
+mail.qq.gov.us 86400 IN A 192.168.101.101
+mail.qwqw.gov.us 86400 IN A 192.168.102.102

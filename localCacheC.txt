@@ -1,0 +1,2 @@
+wyx.yzy.dns 86400 IN CNAME cname.shiyan.dns
+qmul.dns.shiyan 86400 IN CNAME cname.qmul.shiyan

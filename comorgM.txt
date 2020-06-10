@@ -1,0 +1,3 @@
+shiyan.microsoft.com 86400 IN MX mail.shiyan.microsoft.com
+dns.ietf.org 86400 IN MX mail.dns.ietf.org
+

@@ -1,0 +1,2 @@
+wyx.microsoft.com 86400 IN CNAME wyx.dns.com
+yzy.ietf.org 86400 IN CNAME yzy.dns.com

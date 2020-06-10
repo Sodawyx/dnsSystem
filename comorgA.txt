@@ -1,0 +1,4 @@
+wyx.microsoft.com 86400 IN A 192.168.3.1
+yzy.ietf.org 86400 IN A 192.168.3.2
+mail.shiyan.microsoft.com 86400 IN A 192.168.3.5
+mail.dns.ietf.org 86400 IN A 192.168.3.7

@@ -1,0 +1,2 @@
+qq.gov.us 86400 IN MX mail.qq.gov.us
+qwqw.gov.us 86400 IN MX mail.qwqw.gov.us

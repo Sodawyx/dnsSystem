@@ -1,0 +1,3 @@
+bupt.edu.cn 86400 IN MX mail.bupt.edu.cn
+qmul.ac.uk 86400 IN MX mail.qmul.ac.uk
+

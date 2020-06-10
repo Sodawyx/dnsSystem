@@ -1,0 +1,4 @@
+wyx.yzy.dns 86400 IN A 192.168.1.25
+qmul.shiyan.dns 86400 IN A 188.130.100.98
+mail.bupt.edu.cn 86400 IN A 185.229.250.34
+mail.qmul.ac.uk 86400 IN A 156.229.250.3

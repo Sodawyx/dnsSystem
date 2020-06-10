@@ -1,0 +1,2 @@
+wyx.gov.us 86400 IN CNAME wyx.dns.shiyan
+dns.gov.us 86400 IN CNAME yzy.dns.shiyan
